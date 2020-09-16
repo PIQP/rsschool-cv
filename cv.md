@@ -1,21 +1,22 @@
 Arina Sannikova
 ============
 
--------------------     ----------------------------
-My Country Russia                             
-My Town Volgograd                                        
-My Address arina@91i.ru                            
-My Phone +7 937 ___ __ __                              
--------------------     ----------------------------
+---------
+My Country Russia  
+My Town Volgograd  
+My Address arina@91i.ru  
+My Phone +7 937   
+
+--------
 
 Education
 ---------
-Volgograd state agricultural university (VolGAU)
+**Volgograd state agricultural university (VolGAU)**
  
- :   Engineer-technologist of food service; 
+Engineer-technologist of food service; 
 2010-2015
 
-:   Bachelor of Economics scines; 
+Bachelor of Economics scines; 
 2013-2017
 
     *I have a two higher educations, but there are not related to programming.
