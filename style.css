@@ -1,0 +1,45 @@
+h1 {
+	color: gray;
+}
+
+hr {
+	color: gray;
+}
+
+img {
+  float: right;
+  width: 100px;
+  height: 140px;
+}
+
+div {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.center {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.new-font {
+  font-family: monospace;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.oblique {
+  font-style: oblique;
+  font-size: 14px;
+}
+
+.link_page {
+  margin: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
